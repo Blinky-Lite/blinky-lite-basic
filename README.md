@@ -9,6 +9,7 @@ MQTTPASSWORD=xxxxxxxx<br/>
 BT0MACADDR=xx:xx:xx:xx:xx:xx<br/>
 BT0RFCOMMPORT=0<br/>
 BT0SERIALPORT=/dev/rfcomm0<br/>
+SERIALTIMEOUT=60000
 JWTKEYSECRET=xxxxxxx<br>
 SETTINGSPASSWORD=xxxxxxxx<br>
 NODEREDCONFIGSECRET=xxxxxxxxx<br/>
