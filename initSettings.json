@@ -7,7 +7,7 @@
   "ledStateReading": {
     "action": "reading",
     "type": "scalar",
-    "value": 1,
+    "value": 0,
     "unit": "unit",
     "alarm": {
       "value": 0,
@@ -47,7 +47,7 @@
   "signalLevel": {
     "action": "reading",
     "type": "scalar",
-    "value": -35,
+    "value": -30,
     "unit": "dBm",
     "alarm": {
       "value": 0,
@@ -87,7 +87,7 @@
   "ledStateSetting": {
     "action": "setting",
     "type": "scalar",
-    "value": 0,
+    "value": 1,
     "unit": "unit",
     "alarm": {
       "value": 0,
